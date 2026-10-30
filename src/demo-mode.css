@@ -1,0 +1,24 @@
+
+.demo-notice {
+  margin: 16px 0;
+  padding: 12px 16px;
+  border: 1px solid #d8b7a0;
+  border-radius: 10px;
+  background: #fff5e9;
+  color: #6b2338;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.demo-toggle {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 12px 0;
+  font-size: 14px;
+}
+
+.demo-toggle input {
+  accent-color: #6b2338;
+  cursor: pointer;
+}
